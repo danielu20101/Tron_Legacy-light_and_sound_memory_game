@@ -97,22 +97,24 @@ function guess(btn){
   }
   
   // add game logic here
-  if(btn == pattern[guessCounter]){
-    if(guessCounter == progress){
-      if(progress == pattern.length - 1){
-        winGame();
-      }else{
+  if(btn == pattern[guessCounter]){ //if user 'guessed' the correct button, continue
+    if(guessCounter == progress){//if user guessed all buttons in pattern up to progress. Progress keeps
+        //track number of buttons and get incremented each time user guessed all correct buttons in 
+      //sequence.
+      if(progress != pattern.length - 1){
         progress++;
-        playClueSequence();
+        playClueSequence(); // if user has not guessed all buttons, continue
+      }else{
+        winGame(); //if the end of pattern.length-1 is reached, all incices (levels) have been
+          //passed and a win is achieved.
       }
     }else{
-        guessCounter++;
+        guessCounter++; //guessCounter increased, game is not over, and user guessed correct button
       }
     }else{
       loseGame();
     }  
-  }
-    
+  }    
 
 
 function loseGame(){
