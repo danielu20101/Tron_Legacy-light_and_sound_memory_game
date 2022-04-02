@@ -51,7 +51,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![variables](https://user-images.githubusercontent.com/62815005/161357116-73d05332-89b3-48f9-8459-09fcad26fed7.gif)
 
 
-## Reflection Questions![Uploading cssStylesButtonColors.gif…]()
+## Reflection Questions!
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
