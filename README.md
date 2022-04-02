@@ -39,12 +39,20 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
 
-## Reflection Questions
+[background coloring](https://user-images.githubusercontent.com/62815005/161357068-46a7288d-eef3-48df-bd6f-aa7b1c940ede.gif)
+![button resizing css](https://user-images.githubusercontent.com/62815005/161357078-8be59b65-7368-4bd5-8921-574379a39e37.gif)
+![class_tags](https://user-images.githubusercontent.com/62815005/161357085-12dbf959-f3e2-4b3b-94de-98ff5c8ca247.gif)
+![cssStylesButtonColors](https://user-images.githubusercontent.com/62815005/161357100-932c4c2d-e1d6-4e04-a701-e7e9421c6a90.gif)
+![frequencies](https://user-images.githubusercontent.com/62815005/161357104-cc28ee6c-e6dd-4d48-ac74-5f29e797ebab.gif)
+![Game Logic](https://user-images.githubusercontent.com/62815005/161357107-7aa0d01c-c5a6-4511-95fe-3c1dfba46e4a.gif)
+![htmlstyle](https://user-images.githubusercontent.com/62815005/161357112-9b56f2b8-0cbf-493d-83f2-0346f68c1e92.gif)
+![start stop](https://user-images.githubusercontent.com/62815005/161357113-9dcc629c-53a5-48ba-abb7-c6a397dc545f.gif)
+![variables](https://user-images.githubusercontent.com/62815005/161357116-73d05332-89b3-48f9-8459-09fcad26fed7.gif)
+
+
+## Reflection Questions![Uploading cssStylesButtonColors.gif…]()
+
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
 
