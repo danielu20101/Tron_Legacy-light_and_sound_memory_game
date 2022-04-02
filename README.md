@@ -54,17 +54,23 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions!
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
     I used stackoverflow to view how to debug in the console, and also preview console.log messages onto the screen, and mdn documentation 
     for javascript.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-    I did not realize gifs are only a few seconds in 
-
+    
+      I did not realize gifs were only few seconds long, so I ended up remaking the clips to be shorter. I found it difficult explaining my approach to           creating the project in the video, since each clip was only about 7 seconds long. I figured, adding text to each clip would better explain what I am       doing in each clip.  
+        
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+    After completing this project, I feel more prepared to implement my own web application ideas. As a student who has previously switched from pre-medicine to computer science before enrolling into college, I am constantly intrigued how to use technology to help those who are in need. How can I leverage javascript to develop a web based course for people who have neurological disorders, and how will I store all this data related to each component of the course in one web application? I am a firm believer in technology use to support the mentally ill, and think there is yet much to add in this field. 
+    Another question I have is how can you have several people playing a web based game, and 
+under which circumstances does a website crash occur? Is it the VRAM that gets used up to its entirity, or is it the number of asynchronous requests being made which overload a server? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+    
+    Considering I figured out about this project from a friend just yesterday, I would love to get a chance to try to implement more of the optional funcitonality features. I would like to create a mini database of this game, in addition to another game like connect 4, and play around with moving from one game to another. I would like to make this game public, and implement a leaderboard for people to compete against each other. I think this game could be a little more intriguing if colors start changing once a level threshold is passed. This could indicate that they have reached a "master" ranking or a "memory beast" award for being in the top 10% of all player performances. People generally are moved by competition, and receving trophies or badges for stellar performance in the game would encourage people to play the game more often.  
 
 
 
