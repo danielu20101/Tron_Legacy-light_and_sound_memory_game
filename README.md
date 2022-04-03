@@ -76,7 +76,7 @@ under which circumstances does a website crash occur? Is it the VRAM that gets u
 
 ## Interview Recording URL Link
 
-https://drive.google.com/drive/folders/1uj6vO2px3UL_eMLLCOawD3YmB9O3NidC
+https://drive.google.com/drive/folders/1uj6vO2px3UL_eMLLCOawD3YmB9O3NidC?usp=sharing
 
 
 ## License
