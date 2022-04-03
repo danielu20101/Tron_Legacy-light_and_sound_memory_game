@@ -81,7 +81,7 @@ https://drive.google.com/drive/folders/1uj6vO2px3UL_eMLLCOawD3YmB9O3NidC?usp=sha
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Daniel Unhuryan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
