@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Daniel Unhuryan
 
-Time spent: **#** hours spent in total
+Time spent: 8 hours
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/circular-plucky-cloudberry?path=README.md%3A1%3A0
 
 ## Required Functionality
 
