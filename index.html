@@ -16,10 +16,11 @@
   <body>
     <!-- this is the start of content -->
     <h1>
-      Light and Sound Memory Game
+      Light and Sound Memory Game.
     </h1>
     <p>
       Welcome to the Game! Repeat back the pattern by pressing buttons.
+      You will notice some cool cities. My dream is to live in one of them some day 😌
     </p>
     
     <button id="startBtn" onclick="startGame()">
@@ -29,11 +30,24 @@
       Stop
     </button>
     
+    
+    <section>
+    <div class = "container">
+      <h1>
+        00:00
+      </h1>
+      </div>
+    </section>
+
+    
     <div id="gameButtonArea">
-      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()">
+      </button>
       <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
       <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
       <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+      <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"></button>
+      <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"></button>
     </div>
     
   </body>
