@@ -55,8 +55,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-    I used stackoverflow to view how to debug in the console, and also preview console.log messages onto the screen, and mdn documentation 
-    for javascript.
+        I used stackoverflow, mdndocumentation, and youtube vidoes to complete the project. This youtuber below
+provided the resources and idea of the clock function: https://www.youtube.com/watch?v=_a4XCarxwr8, which I leveraged in my javascript code. Here is the stack overflow link which I used to figure out how to configure the background images for each of the buttons.               https://stackoverflow.com/questions/23001031/how-do-i-make-an-image-fit-inside-a-button-in-css
+https://stackoverflow.com/questions/67133137/error-xindex-is-undefined-in-slides-html-css-js
+https://stackoverflow.com/questions/71662554/cant-stop-the-audio-with-js
+        
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
     
@@ -70,7 +73,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
     
-    As a long term project, I would like to create a mini database containing several short games like this, such as connect 4, battleship, tic-tac-toe, and then configure a network which would allow players to compete against each other. It would be awesome to implement a leaderboard board for people see how they place against each other. I think this game could be a little more intriguing if background colors start changing once a level threshold is passed. This could indicate that they have reached a "master" ranking or a "memory beast" award for being in the top 10% of all player performances. People generally are moved by competition, and receving trophies or badges for stellar performance in the game would encourage people to play the game more often.  
+    As a long term project, I would like to create a mini database containing several short games like this, such as connect 4, battleship, tic-tac-toe, and then configure a network which would allow players to compete against each other. It would be awesome to implement a leaderboard board for people to see how they place against each other. I think this game could be a little more intriguing if the body background colors start changing once some certain level threshold is passed. This could indicate that a person has reached a "master" ranking or a "memory king" award for being in the top 10% of all player performances.   
 
 
 
