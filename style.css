@@ -6,15 +6,17 @@ html {
   font-size: 16px;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
-section{
+section {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Courier New', monospace;
+  font-family: "Courier New", monospace;
   font-size: 25px;
 }
 
@@ -42,78 +44,80 @@ video {
 
 #button1 {
   background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
-  background-size: cover
+  background-size: cover;
 }
 
 /*active changes color upon press, and lit changes color during pattern execution*/
 /*These are simply css classes, which are defined in the javascript file*/
-#button1:active, #button1.lit {
-    background-image: url("https://www.raiderladies.com/wp-content/uploads/2020/09/las-vegas-strip-500x500-1-1.jpg");
-    background-size:cover
+#button1:active,
+#button1.lit {
+  background-image: url("https://www.raiderladies.com/wp-content/uploads/2020/09/las-vegas-strip-500x500-1-1.jpg");
+  background-size: cover;
 }
-
 
 #button2 {
-    background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
-    background-size: cover
+  background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
+  background-size: cover;
 }
 
-#button2:active, #button2.lit {
-    background-image: url("https://www.sightseeingpass.com/en/new-york/images/pages/cities/new-york/city-wide/travel-guides-september/september.jpg");
-    background-size:cover
+#button2:active,
+#button2.lit {
+  background-image: url("https://www.sightseeingpass.com/en/new-york/images/pages/cities/new-york/city-wide/travel-guides-september/september.jpg");
+  background-size: cover;
 }
 
 #button3 {
   background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
-  background-size: cover
+  background-size: cover;
 }
 
-
-#button3:active, #button3.lit {
-    background-image: url("https://www.unibetopen.com/wp-content/uploads/2019/11/paris-view-500x500.jpg");
-    background-size:cover
+#button3:active,
+#button3.lit {
+  background-image: url("https://www.unibetopen.com/wp-content/uploads/2019/11/paris-view-500x500.jpg");
+  background-size: cover;
 }
-
 
 #button4 {
-    background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
-    background-size: cover
-}
-
-#button4:active, #button4.lit{
-    background-image: url("https://miyamotointernational.com/wp-content/uploads/office-tokyo.jpg");
-    background-size:cover
-}
-
-#button5{
   background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
-  background-size: cover
+  background-size: cover;
 }
 
-#button5:active, #button5.lit{
+#button4:active,
+#button4.lit {
+  background-image: url("https://miyamotointernational.com/wp-content/uploads/office-tokyo.jpg");
+  background-size: cover;
+}
+
+#button5 {
+  background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
+  background-size: cover;
+}
+
+#button5:active,
+#button5.lit {
   background-image: url("https://pictures.tripmasters.com/images/packages1/uae/uae-abudhabi-aerial500.jpg");
-  background-size:cover
+  background-size: cover;
 }
 
 #button6 {
- background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
- background-size: cover
+  background-image: url("https://img1.cgtrader.com/items/2002965/105bc839c7/large/sci-fi-door-3d-model-obj-mtl-3ds-fbx-c4d.jpg");
+  background-size: cover;
 }
 
-#button6:active, #button6.lit{
-    background-image: url("https://strawberrytours.com/wp-content/uploads/2019/09/Berlin_500x500-2.jpg");
-    background-size:cover
+#button6:active,
+#button6.lit {
+  background-image: url("https://strawberrytours.com/wp-content/uploads/2019/09/Berlin_500x500-2.jpg");
+  background-size: cover;
 }
 
 /*create a class for hidden to hide button start and stop upon clicking*/
 /*shown in the javascript file*/
-.hidden{
+.hidden {
   display: none;
 }
 
 #gameButtonArea > button {
-  width:200px;
-  height:200px;
-  margin:2px;
+  width: 200px;
+  height: 200px;
+  margin: 2px;
 }
-
