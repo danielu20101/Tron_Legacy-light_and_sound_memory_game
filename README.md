@@ -4,7 +4,7 @@
 
 Submitted by: Daniel Unhuryan
 
-Time spent: 8 hours
+Time spent: 6 hours (just game)
 
 Link to project: https://glitch.com/edit/#!/circular-plucky-cloudberry?path=README.md%3A1%3A0
 
