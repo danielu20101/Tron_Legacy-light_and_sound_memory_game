@@ -4,6 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <!-- font awesome cdn link  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
 
     <title>Hello world!</title>
 
@@ -18,11 +23,18 @@
     <h1>Light and Sound Memory Game.</h1>
     <p>
       Welcome to the Game! Repeat back the pattern by pressing buttons. You will
-      notice some cool cities. My dream is to live in one of them some day 😌
+      notice some cool cities ... can you guess them? bonus points for guessing them all right!
     </p>
 
     <button id="startBtn" onclick="startGame()">Start</button>
     <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
+
+    <div class="playerLive">
+      <b>Lives:</b>
+      <span><i class="fa fa-heart singleLive3"></i></span>
+      <span><i class="fa fa-heart singleLive2"></i></span>
+      <span><i class="fa fa-heart singleLive1"></i></span>
+    </div>
 
     <section>
       <div class="container gameTime">

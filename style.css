@@ -35,6 +35,19 @@ button {
   border-radius: 10px;
 }
 
+.playerLive {
+  margin-top: 20px;
+}
+
+.playerLive b {
+  margin-right: 5px;
+  color: wheat;
+}
+
+.playerLive span {
+  color: deepskyblue;
+}
+
 /* images and videos max out at full width */
 img,
 video {
