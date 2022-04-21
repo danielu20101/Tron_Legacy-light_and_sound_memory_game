@@ -7,8 +7,9 @@ let timeSecond = 20;
 const timeH = document.querySelector(".gameTime");
 let countDown;
 
+// audio
 var successAudio = new Audio("https://cdn.glitch.global/ef9a0f9e-9ee3-4b5a-9b94-370642b0237f/successSound.wav?v=1650346030970");
-var failureAudio = new Audio("https://cdn.glitch.global/ef9a0f9e-9ee3-4b5a-9b94-370642b0237f/successSound.wav?v=1650346030970");
+var failureAudio = new Audio("https://cdn.glitch.global/ef9a0f9e-9ee3-4b5a-9b94-370642b0237f/335906__littlerainyseasons__fail.mp3?v=1650501003561");
 
 //problems start here
 function time() {
@@ -166,6 +167,14 @@ function guess(btn) {
     }
   } else {
     totallLost++;
+    document
+      .querySelector(`.singleLive${totallLost}`)
+      .setAttribute("style", "color:#334155");
+    if (totallLost === 2) {
+      document
+        .querySelector(`.singleLive${totallLost + 1}`)
+        .setAttribute("style", "color:#ef4444");
+    }
     playClueSequence();
     totallLost === 3 && loseGame(); //if none of the above holds, user has incorrectly guessed!
   }
