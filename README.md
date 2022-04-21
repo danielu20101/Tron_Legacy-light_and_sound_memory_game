@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
         I used stackoverflow, mdndocumentation, and youtube vidoes to complete the project. This youtuber below
-provided the resources and idea of the clock function: https://www.youtube.com/watch?v=_a4XCarxwr8, which I leveraged in my javascript code. Here is the stack overflow link which I used to figure out how to configure the background images for each of the buttons.               https://stackoverflow.com/questions/23001031/how-do-i-make-an-image-fit-inside-a-button-in-css
+provided the resources and idea of the clock function: https://www.youtube.com/watch?v=_a4XCarxwr8, which I leveraged in my javascript code. Below are the stack overflow links which I used to configure the background images for each of the buttons.               https://stackoverflow.com/questions/23001031/how-do-i-make-an-image-fit-inside-a-button-in-css
 https://stackoverflow.com/questions/67133137/error-xindex-is-undefined-in-slides-html-css-js
 https://stackoverflow.com/questions/71662554/cant-stop-the-audio-with-js
         
