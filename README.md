@@ -40,6 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
+![success](https://user-images.githubusercontent.com/62815005/164352521-72205148-a582-4b90-a8f7-dc2c118835fd.gif)
+![Losing Lives](https://user-images.githubusercontent.com/62815005/164352528-2beaa438-6cd3-422f-9b1e-9608f7b5b3f5.gif)
 
 ## Reflection Questions!
 
