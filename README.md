@@ -50,6 +50,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
         I used stackoverflow, mdndocumentation, and youtube vidoes to complete the project. This youtuber below
         provided the resources and idea of the clock function: https://www.youtube.com/watch?v=_a4XCarxwr8, which I leveraged in my javascript code. Below are the stack overflow links which I used to configure the background images for each of the buttons.
         
+        This mdn documentation describes how to implement lives. Although I used querySelector to alter the css once a invalid selection condition is met
+        in the javascript code, this documentation shows the general idea of how to use a variable to hold the lives. I used this idea slightly                   differently in my implementation. 
+        
         https://stackoverflow.com/questions/23001031/how-do-i-make-an-image-fit-inside-a-button-in-css
         https://stackoverflow.com/questions/67133137/error-xindex-is-undefined-in-slides-html-css-js
         https://stackoverflow.com/questions/71662554/cant-stop-the-audio-with-js
